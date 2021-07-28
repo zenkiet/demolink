@@ -1,0 +1,1 @@
+import{j as r,k as o,s as a,m as t}from"./vendor.bd533c15.js";const e={},s={id:"bai-3-mot-so-giao-thuc-error-control",tabindex:"-1"},i=a("a",{class:"header-anchor",href:"#bai-3-mot-so-giao-thuc-error-control","aria-hidden":"true"},"#",-1),n=t(" Bài 3: Một số giao thức Error Control");e.render=function(a,t){return r(),o("h1",s,[i,n])};export{e as default};

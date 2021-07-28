@@ -1,0 +1,1 @@
+const e={key:"v-7c51f6f5",path:"/packages/@vuepress/utils/node_modules/ms/license.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"packages/@vuepress/utils/node_modules/ms/license.md",git:{}};export{e as data};

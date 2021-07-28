@@ -1,0 +1,1 @@
+import{j as n,k as a,s as e,m as t}from"./vendor.bd533c15.js";const r={},s={id:"luan-van-tot-nghiep",tabindex:"-1"},d=e("a",{class:"header-anchor",href:"#luan-van-tot-nghiep","aria-hidden":"true"},"#",-1),i=t(" Luận văn tốt nghiệp");r.render=function(e,t){return n(),a("h1",s,[d,i])};export{r as default};

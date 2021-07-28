@@ -1,0 +1,1 @@
+import{j as a,k as i,s as n,m as e}from"./vendor.bd533c15.js";const r={},o={id:"bai-6-bo-giao-thuc-lien-mang",tabindex:"-1"},t=n("a",{class:"header-anchor",href:"#bai-6-bo-giao-thuc-lien-mang","aria-hidden":"true"},"#",-1),s=e(" Bài 6: Bộ giao thức liên mạng");r.render=function(n,e){return a(),i("h1",o,[t,s])};export{r as default};

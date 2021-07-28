@@ -1,0 +1,1 @@
+import{j as n,k as a,s as e,m as r}from"./vendor.bd533c15.js";const t={},s={id:"nien-luan-cntt",tabindex:"-1"},d=e("a",{class:"header-anchor",href:"#nien-luan-cntt","aria-hidden":"true"},"#",-1),i=r(" Niên luận CNTT");t.render=function(e,r){return n(),a("h1",s,[d,i])};export{t as default};

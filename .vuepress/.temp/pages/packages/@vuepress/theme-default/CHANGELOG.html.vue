@@ -1,0 +1,303 @@
+<template><h1 id="change-log" tabindex="-1"><a class="header-anchor" href="#change-log" aria-hidden="true">#</a> Change Log</h1>
+<p>All notable changes to this project will be documented in this file.
+See <a href="https://conventionalcommits.org" target="_blank" rel="noopener noreferrer">Conventional Commits<OutboundLink/></a> for commit guidelines.</p>
+<h1 id="_2-0-0-beta-22-2021-07-11" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-22-2021-07-11" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.21...v2.0.0-beta.22" target="_blank" rel="noopener noreferrer">2.0.0-beta.22<OutboundLink/></a> (2021-07-11)</h1>
+<h3 id="bug-fixes" tabindex="-1"><a class="header-anchor" href="#bug-fixes" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>plugin-active-header-links:</strong> update active header link selector (<a href="https://github.com/vuepress/vuepress-next/issues/259" target="_blank" rel="noopener noreferrer">#259<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/adaeed5b71b2746b8d30e0eac7be55a736eefb11" target="_blank" rel="noopener noreferrer">adaeed5<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> break long links on overflow (close <a href="https://github.com/vuepress/vuepress-next/issues/266" target="_blank" rel="noopener noreferrer">#266<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/issues/273" target="_blank" rel="noopener noreferrer">#273<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/eb970c3aa4c4d650cd964b0c1f60d423a7d55125" target="_blank" rel="noopener noreferrer">eb970c3<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-21-2021-07-03" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-21-2021-07-03" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.20...v2.0.0-beta.21" target="_blank" rel="noopener noreferrer">2.0.0-beta.21<OutboundLink/></a> (2021-07-03)</h1>
+<h3 id="bug-fixes-1" tabindex="-1"><a class="header-anchor" href="#bug-fixes-1" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> fix nav glitch at exactly 719px screen width (<a href="https://github.com/vuepress/vuepress-next/issues/238" target="_blank" rel="noopener noreferrer">#238<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/3154fbbc5c3b11e5f2a2310a0895538491fbec8f" target="_blank" rel="noopener noreferrer">3154fbb<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use default cursor on non-link sidebar items (<a href="https://github.com/vuepress/vuepress-next/commit/ca22d4fe7ade66571f34dc80343f4ec57483b44a" target="_blank" rel="noopener noreferrer">ca22d4f<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-20-2021-06-26" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-20-2021-06-26" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.19...v2.0.0-beta.20" target="_blank" rel="noopener noreferrer">2.0.0-beta.20<OutboundLink/></a> (2021-06-26)</h1>
+<h3 id="features" tabindex="-1"><a class="header-anchor" href="#features" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> refine sidebar config (<a href="https://github.com/vuepress/vuepress-next/commit/ea7c4bbac269f2f9ade4d58cb77dad27055d9bc0" target="_blank" rel="noopener noreferrer">ea7c4bb<OutboundLink/></a>)</li>
+</ul>
+<h3 id="breaking-changes" tabindex="-1"><a class="header-anchor" href="#breaking-changes" aria-hidden="true">#</a> BREAKING CHANGES</h3>
+<ul>
+<li><strong>theme-default:</strong> <code>isGroup</code> field of sidebar config is removed</li>
+</ul>
+<h1 id="_2-0-0-beta-19-2021-06-19" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-19-2021-06-19" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.18...v2.0.0-beta.19" target="_blank" rel="noopener noreferrer">2.0.0-beta.19<OutboundLink/></a> (2021-06-19)</h1>
+<h3 id="features-1" tabindex="-1"><a class="header-anchor" href="#features-1" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> support activeMatch in navbar config (<a href="https://github.com/vuepress/vuepress-next/commit/ab0c6d1544e62b505547c45afe6347fdb735c011" target="_blank" rel="noopener noreferrer">ab0c6d1<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> support disabling dark mode (<a href="https://github.com/vuepress/vuepress-next/commit/6517ce1c66219fc45f0cb645f3db30e275e592bf" target="_blank" rel="noopener noreferrer">6517ce1<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-18-2021-06-12" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-18-2021-06-12" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.17...v2.0.0-beta.18" target="_blank" rel="noopener noreferrer">2.0.0-beta.18<OutboundLink/></a> (2021-06-12)</h1>
+<h3 id="bug-fixes-2" tabindex="-1"><a class="header-anchor" href="#bug-fixes-2" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> exclude h1 header in sidebar (<a href="https://github.com/vuepress/vuepress-next/commit/280626dd33f5006d6611f6e121eb5edfad8a258e" target="_blank" rel="noopener noreferrer">280626d<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> show outline of toggle-dark-button (<a href="https://github.com/vuepress/vuepress-next/commit/bc94de0cb3a9454ac0a3e72f3df07326568057d2" target="_blank" rel="noopener noreferrer">bc94de0<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-17-2021-06-04" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-17-2021-06-04" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.16...v2.0.0-beta.17" target="_blank" rel="noopener noreferrer">2.0.0-beta.17<OutboundLink/></a> (2021-06-04)</h1>
+<h3 id="bug-fixes-3" tabindex="-1"><a class="header-anchor" href="#bug-fixes-3" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> avoid long inline code breaking the layout (<a href="https://github.com/vuepress/vuepress-next/issues/180" target="_blank" rel="noopener noreferrer">#180<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/ada2e2a884749d9654c3550c4bb92611ea29906c" target="_blank" rel="noopener noreferrer">ada2e2a<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> fix error of sidebar resolving (close <a href="https://github.com/vuepress/vuepress-next/issues/185" target="_blank" rel="noopener noreferrer">#185<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/6a96af0b480b04a3c2564739e87a0ae786756581" target="_blank" rel="noopener noreferrer">6a96af0<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> respect root-level custom container config (close <a href="https://github.com/vuepress/vuepress-next/issues/175" target="_blank" rel="noopener noreferrer">#175<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/f2ad5f0e988b075cfa37726d67feb8fa54f6176b" target="_blank" rel="noopener noreferrer">f2ad5f0<OutboundLink/></a>)</li>
+</ul>
+<h3 id="features-2" tabindex="-1"><a class="header-anchor" href="#features-2" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> improve a11y of CodeGroup (<a href="https://github.com/vuepress/vuepress-next/issues/163" target="_blank" rel="noopener noreferrer">#163<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/2b7646399116114a967a5df64266c6879babb10f" target="_blank" rel="noopener noreferrer">2b76463<OutboundLink/></a>)</li>
+</ul>
+<h3 id="breaking-changes-1" tabindex="-1"><a class="header-anchor" href="#breaking-changes-1" aria-hidden="true">#</a> BREAKING CHANGES</h3>
+<ul>
+<li><strong>theme-default:</strong> default title of danger container is changed to &quot;DANGER&quot;</li>
+</ul>
+<h1 id="_2-0-0-beta-16-2021-05-28" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-16-2021-05-28" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.15...v2.0.0-beta.16" target="_blank" rel="noopener noreferrer">2.0.0-beta.16<OutboundLink/></a> (2021-05-28)</h1>
+<h3 id="bug-fixes-4" tabindex="-1"><a class="header-anchor" href="#bug-fixes-4" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> increase medium-zoom delay (<a href="https://github.com/vuepress/vuepress-next/commit/9c9244385f4fe6f65115cab6ba08f47dffc1580a" target="_blank" rel="noopener noreferrer">9c92443<OutboundLink/></a>)</li>
+</ul>
+<h3 id="features-3" tabindex="-1"><a class="header-anchor" href="#features-3" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>plugin-medium-zoom:</strong> add more css variables (close <a href="https://github.com/vuepress/vuepress-next/issues/174" target="_blank" rel="noopener noreferrer">#174<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/d71780094839db02424b60f3a2877871e34eaf64" target="_blank" rel="noopener noreferrer">d717800<OutboundLink/></a>)</li>
+<li><strong>plugin-pwa-popup:</strong> add more css variables (<a href="https://github.com/vuepress/vuepress-next/commit/3ae6f72a1fb981ff132325637d5996c5c07b52f2" target="_blank" rel="noopener noreferrer">3ae6f72<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-15-2021-05-27" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-15-2021-05-27" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.14...v2.0.0-beta.15" target="_blank" rel="noopener noreferrer">2.0.0-beta.15<OutboundLink/></a> (2021-05-27)</h1>
+<h3 id="bug-fixes-5" tabindex="-1"><a class="header-anchor" href="#bug-fixes-5" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> handle rotate events on iPad (<a href="https://github.com/vuepress/vuepress-next/issues/150" target="_blank" rel="noopener noreferrer">#150<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/bbdda60bba0a56590535f3e762dec55767ec031c" target="_blank" rel="noopener noreferrer">bbdda60<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> show header anchors when being focused (<a href="https://github.com/vuepress/vuepress-next/issues/164" target="_blank" rel="noopener noreferrer">#164<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/8de5f0fa2873f64be0622aced46e1512c7f4fac5" target="_blank" rel="noopener noreferrer">8de5f0f<OutboundLink/></a>)</li>
+</ul>
+<h3 id="features-4" tabindex="-1"><a class="header-anchor" href="#features-4" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> support dark mode (close <a href="https://github.com/vuepress/vuepress-next/issues/29" target="_blank" rel="noopener noreferrer">#29<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/680e4298a80ddb06b0381af48644124ffb0b0c4c" target="_blank" rel="noopener noreferrer">680e429<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> support full link for github repo (<a href="https://github.com/vuepress/vuepress-next/issues/152" target="_blank" rel="noopener noreferrer">#152<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/8a5055b57d2068e73b4a1c52601c94bdbbc1a7c5" target="_blank" rel="noopener noreferrer">8a5055b<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> support Gitee repo (<a href="https://github.com/vuepress/vuepress-next/commit/5cad664bd7224a08e679dc06f61f17af6c790b97" target="_blank" rel="noopener noreferrer">5cad664<OutboundLink/></a>)</li>
+</ul>
+<h3 id="breaking-changes-2" tabindex="-1"><a class="header-anchor" href="#breaking-changes-2" aria-hidden="true">#</a> BREAKING CHANGES</h3>
+<ul>
+<li><strong>theme-default:</strong> most sass variables are migrated to css variables</li>
+</ul>
+<h1 id="_2-0-0-beta-14-2021-05-12" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-14-2021-05-12" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.13...v2.0.0-beta.14" target="_blank" rel="noopener noreferrer">2.0.0-beta.14<OutboundLink/></a> (2021-05-12)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-beta-13-2021-05-06" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-13-2021-05-06" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.12...v2.0.0-beta.13" target="_blank" rel="noopener noreferrer">2.0.0-beta.13<OutboundLink/></a> (2021-05-06)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-beta-12-2021-04-30" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-12-2021-04-30" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.11...v2.0.0-beta.12" target="_blank" rel="noopener noreferrer">2.0.0-beta.12<OutboundLink/></a> (2021-04-30)</h1>
+<h3 id="bug-fixes-6" tabindex="-1"><a class="header-anchor" href="#bug-fixes-6" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> align the font of line numbers with code blocks (close <a href="https://github.com/vuepress/vuepress-next/issues/124" target="_blank" rel="noopener noreferrer">#124<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/issues/125" target="_blank" rel="noopener noreferrer">#125<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/a3ea87d507a644dc31bf9ffbb5703eb99342cc60" target="_blank" rel="noopener noreferrer">a3ea87d<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-11-2021-04-28" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-11-2021-04-28" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.10...v2.0.0-beta.11" target="_blank" rel="noopener noreferrer">2.0.0-beta.11<OutboundLink/></a> (2021-04-28)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-beta-10-2021-04-27" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-10-2021-04-27" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.9...v2.0.0-beta.10" target="_blank" rel="noopener noreferrer">2.0.0-beta.10<OutboundLink/></a> (2021-04-27)</h1>
+<h3 id="features-5" tabindex="-1"><a class="header-anchor" href="#features-5" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> compat with docsearch and search plugin (<a href="https://github.com/vuepress/vuepress-next/commit/cb0018257c2c6b4b21e2add5f73e7213b537fb6f" target="_blank" rel="noopener noreferrer">cb00182<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> support pageClass frontmatter (close <a href="https://github.com/vuepress/vuepress-next/issues/118" target="_blank" rel="noopener noreferrer">#118<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/809d5750c36662e894be566c0ff53c2f2a700da0" target="_blank" rel="noopener noreferrer">809d575<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> support sidebarDepth (<a href="https://github.com/vuepress/vuepress-next/commit/b79ba90f8e4cb93d76dac1f284131cf618aee784" target="_blank" rel="noopener noreferrer">b79ba90<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-9-2021-04-21" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-9-2021-04-21" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.8...v2.0.0-beta.9" target="_blank" rel="noopener noreferrer">2.0.0-beta.9<OutboundLink/></a> (2021-04-21)</h1>
+<h3 id="bug-fixes-7" tabindex="-1"><a class="header-anchor" href="#bug-fixes-7" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> remove font-smothing in code block (<a href="https://github.com/vuepress/vuepress-next/commit/41c281e016c77dc5f1d9d12e8917814e48af1424" target="_blank" rel="noopener noreferrer">41c281e<OutboundLink/></a>)</li>
+</ul>
+<h3 id="features-6" tabindex="-1"><a class="header-anchor" href="#features-6" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> add more palette variables for code styles (<a href="https://github.com/vuepress/vuepress-next/commit/db8e0f4870b051184a4d4b3c5b17497e302b0b11" target="_blank" rel="noopener noreferrer">db8e0f4<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-8-2021-04-11" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-8-2021-04-11" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.7...v2.0.0-beta.8" target="_blank" rel="noopener noreferrer">2.0.0-beta.8<OutboundLink/></a> (2021-04-11)</h1>
+<h3 id="code-refactoring" tabindex="-1"><a class="header-anchor" href="#code-refactoring" aria-hidden="true">#</a> Code Refactoring</h3>
+<ul>
+<li>normalize themes and plugins structure (<a href="https://github.com/vuepress/vuepress-next/commit/77811722401bf1ed1fec44c64158ab0cd1ab3179" target="_blank" rel="noopener noreferrer">7781172<OutboundLink/></a>)</li>
+</ul>
+<h3 id="breaking-changes-3" tabindex="-1"><a class="header-anchor" href="#breaking-changes-3" aria-hidden="true">#</a> BREAKING CHANGES</h3>
+<ul>
+<li>client API that provided by plugins should be imported from <code>plugin-foo/lib/client</code></li>
+</ul>
+<h1 id="_2-0-0-beta-7-2021-04-09" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-7-2021-04-09" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.6...v2.0.0-beta.7" target="_blank" rel="noopener noreferrer">2.0.0-beta.7<OutboundLink/></a> (2021-04-09)</h1>
+<h3 id="bug-fixes-8" tabindex="-1"><a class="header-anchor" href="#bug-fixes-8" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> allow direct img children to be zoomable (close <a href="https://github.com/vuepress/vuepress-next/issues/84" target="_blank" rel="noopener noreferrer">#84<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/832bd6fbbd9612e2209a28ed89a49bf9eb658838" target="_blank" rel="noopener noreferrer">832bd6f<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-6-2021-03-26" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-6-2021-03-26" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.5...v2.0.0-beta.6" target="_blank" rel="noopener noreferrer">2.0.0-beta.6<OutboundLink/></a> (2021-03-26)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-beta-5-2021-03-26" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-5-2021-03-26" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.4...v2.0.0-beta.5" target="_blank" rel="noopener noreferrer">2.0.0-beta.5<OutboundLink/></a> (2021-03-26)</h1>
+<h3 id="bug-fixes-9" tabindex="-1"><a class="header-anchor" href="#bug-fixes-9" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> add active class to sidebar group heading (<a href="https://github.com/vuepress/vuepress-next/commit/8dcb9457c532de8076f94b3b165c1347e9bd9c86" target="_blank" rel="noopener noreferrer">8dcb945<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> allow NavLink in sidebar children (<a href="https://github.com/vuepress/vuepress-next/commit/ea5001076b86a7dc8b807811796a8ed44fbcf7b9" target="_blank" rel="noopener noreferrer">ea50010<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> make navlink active in subpath (close <a href="https://github.com/vuepress/vuepress-next/issues/70" target="_blank" rel="noopener noreferrer">#70<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/4c865b16430d0e72b0ac1103f9579a93f248bf9c" target="_blank" rel="noopener noreferrer">4c865b1<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> make nested sidebar groups work (<a href="https://github.com/vuepress/vuepress-next/commit/4ada701062db400787c41008942354f6947bf80b" target="_blank" rel="noopener noreferrer">4ada701<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> make scrollBehavior work with transition (close <a href="https://github.com/vuepress/vuepress-next/issues/77" target="_blank" rel="noopener noreferrer">#77<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/4b8d0cff2d7fa3d74d69d551976a3b12263e6124" target="_blank" rel="noopener noreferrer">4b8d0cf<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-4-2021-03-20" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-4-2021-03-20" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.3...v2.0.0-beta.4" target="_blank" rel="noopener noreferrer">2.0.0-beta.4<OutboundLink/></a> (2021-03-20)</h1>
+<h3 id="features-7" tabindex="-1"><a class="header-anchor" href="#features-7" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> use prismjs plugin (<a href="https://github.com/vuepress/vuepress-next/commit/f131de4783685dbabfde4e4966182d570224a246" target="_blank" rel="noopener noreferrer">f131de4<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-beta-2-2021-03-14" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-2-2021-03-14" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.1...v2.0.0-beta.2" target="_blank" rel="noopener noreferrer">2.0.0-beta.2<OutboundLink/></a> (2021-03-14)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-beta-1-2021-03-13" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-1-2021-03-13" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-beta.0...v2.0.0-beta.1" target="_blank" rel="noopener noreferrer">2.0.0-beta.1<OutboundLink/></a> (2021-03-13)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-beta-0-2021-03-13" tabindex="-1"><a class="header-anchor" href="#_2-0-0-beta-0-2021-03-13" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.26...v2.0.0-beta.0" target="_blank" rel="noopener noreferrer">2.0.0-beta.0<OutboundLink/></a> (2021-03-13)</h1>
+<h3 id="features-8" tabindex="-1"><a class="header-anchor" href="#features-8" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> use sass as css pre-processor (<a href="https://github.com/vuepress/vuepress-next/commit/7eb1fd8b8901d3f2c2335ad550b7d601a9354826" target="_blank" rel="noopener noreferrer">7eb1fd8<OutboundLink/></a>)</li>
+</ul>
+<h3 id="breaking-changes-4" tabindex="-1"><a class="header-anchor" href="#breaking-changes-4" aria-hidden="true">#</a> BREAKING CHANGES</h3>
+<ul>
+<li><strong>theme-default:</strong> the palette system of default theme is migrated to sass</li>
+</ul>
+<h1 id="_2-0-0-alpha-26-2021-02-24" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-26-2021-02-24" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.25...v2.0.0-alpha.26" target="_blank" rel="noopener noreferrer">2.0.0-alpha.26<OutboundLink/></a> (2021-02-24)</h1>
+<h3 id="features-9" tabindex="-1"><a class="header-anchor" href="#features-9" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>plugin-palette:</strong> add palette plugin (<a href="https://github.com/vuepress/vuepress-next/commit/556a23cc9076f972deb3d5c0905441b63b700682" target="_blank" rel="noopener noreferrer">556a23c<OutboundLink/></a>)</li>
+</ul>
+<h3 id="breaking-changes-5" tabindex="-1"><a class="header-anchor" href="#breaking-changes-5" aria-hidden="true">#</a> BREAKING CHANGES</h3>
+<ul>
+<li><strong>plugin-palette:</strong> migrate <code>@vuepress/plugin-palette-stylus</code> to <code>@vuepress/plugin-palette</code></li>
+</ul>
+<h1 id="_2-0-0-alpha-25-2021-02-20" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-25-2021-02-20" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.24...v2.0.0-alpha.25" target="_blank" rel="noopener noreferrer">2.0.0-alpha.25<OutboundLink/></a> (2021-02-20)</h1>
+<h3 id="code-refactoring-1" tabindex="-1"><a class="header-anchor" href="#code-refactoring-1" aria-hidden="true">#</a> Code Refactoring</h3>
+<ul>
+<li><strong>core:</strong> remove theme data from site data (<a href="https://github.com/vuepress/vuepress-next/commit/187aef36607efc62d7b2d5c773553f89685cf64c" target="_blank" rel="noopener noreferrer">187aef3<OutboundLink/></a>)</li>
+</ul>
+<h3 id="breaking-changes-6" tabindex="-1"><a class="header-anchor" href="#breaking-changes-6" aria-hidden="true">#</a> BREAKING CHANGES</h3>
+<ul>
+<li><strong>core:</strong> <code>themeConfig</code> is not available in site data any more</li>
+</ul>
+<h1 id="_2-0-0-alpha-24-2021-02-13" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-24-2021-02-13" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.23...v2.0.0-alpha.24" target="_blank" rel="noopener noreferrer">2.0.0-alpha.24<OutboundLink/></a> (2021-02-13)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-23-2021-02-10" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-23-2021-02-10" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.22...v2.0.0-alpha.23" target="_blank" rel="noopener noreferrer">2.0.0-alpha.23<OutboundLink/></a> (2021-02-10)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-22-2021-02-10" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-22-2021-02-10" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.21...v2.0.0-alpha.22" target="_blank" rel="noopener noreferrer">2.0.0-alpha.22<OutboundLink/></a> (2021-02-10)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-21-2021-02-05" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-21-2021-02-05" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.20...v2.0.0-alpha.21" target="_blank" rel="noopener noreferrer">2.0.0-alpha.21<OutboundLink/></a> (2021-02-05)</h1>
+<h3 id="features-10" tabindex="-1"><a class="header-anchor" href="#features-10" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>plugin-git:</strong> collect page created time (close <a href="https://github.com/vuepress/vuepress-next/issues/45" target="_blank" rel="noopener noreferrer">#45<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/4045a8c1ab591dbbb0303aa43c6d13bf248d995c" target="_blank" rel="noopener noreferrer">4045a8c<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-20-2021-02-04" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-20-2021-02-04" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.19...v2.0.0-alpha.20" target="_blank" rel="noopener noreferrer">2.0.0-alpha.20<OutboundLink/></a> (2021-02-04)</h1>
+<h3 id="bug-fixes-10" tabindex="-1"><a class="header-anchor" href="#bug-fixes-10" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> fix max width of navbar links wrapper (<a href="https://github.com/vuepress/vuepress-next/commit/846e60ca9f0137f54a96df7589df4ea4cd99f18a" target="_blank" rel="noopener noreferrer">846e60c<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> remove extra rem in styles (close <a href="https://github.com/vuepress/vuepress-next/issues/50" target="_blank" rel="noopener noreferrer">#50<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/9b1b852a9c11c28b43253f87b40362693ad2cb95" target="_blank" rel="noopener noreferrer">9b1b852<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-19-2021-01-24" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-19-2021-01-24" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.18...v2.0.0-alpha.19" target="_blank" rel="noopener noreferrer">2.0.0-alpha.19<OutboundLink/></a> (2021-01-24)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-18-2021-01-17" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-18-2021-01-17" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.17...v2.0.0-alpha.18" target="_blank" rel="noopener noreferrer">2.0.0-alpha.18<OutboundLink/></a> (2021-01-17)</h1>
+<h3 id="bug-fixes-11" tabindex="-1"><a class="header-anchor" href="#bug-fixes-11" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> fix homepage frontmatter type (<a href="https://github.com/vuepress/vuepress-next/commit/9cf2d288e115d335f6ff9f1a849a2ce82db799c9" target="_blank" rel="noopener noreferrer">9cf2d28<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> fix sidebar config override (<a href="https://github.com/vuepress/vuepress-next/commit/2c2c2801be716dfb102345090888fd1e22a0ac92" target="_blank" rel="noopener noreferrer">2c2c280<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> make sr-only tags unselectable (<a href="https://github.com/vuepress/vuepress-next/commit/0f6488e3a00674c0670737c8831763db0a0ffa93" target="_blank" rel="noopener noreferrer">0f6488e<OutboundLink/></a>)</li>
+</ul>
+<h3 id="features-11" tabindex="-1"><a class="header-anchor" href="#features-11" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> add code-group custom container (<a href="https://github.com/vuepress/vuepress-next/commit/d0a20aaacefc78708a4181c53704b28c60b520b4" target="_blank" rel="noopener noreferrer">d0a20aa<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> add page transition (<a href="https://github.com/vuepress/vuepress-next/commit/845cc2cb64223b856261bfc7b384dec6557456c4" target="_blank" rel="noopener noreferrer">845cc2c<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> allow html in homepage footer (<a href="https://github.com/vuepress/vuepress-next/commit/87e0821cee66c34141c1c3a62e8f5ecb6b21a957" target="_blank" rel="noopener noreferrer">87e0821<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> optimize scrollbar style of sidebar (<a href="https://github.com/vuepress/vuepress-next/commit/27abb26509fa737ea27c3036bbe834d544e60298" target="_blank" rel="noopener noreferrer">27abb26<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> support multiple action buttons in homepage (close <a href="https://github.com/vuepress/vuepress-next/issues/23" target="_blank" rel="noopener noreferrer">#23<OutboundLink/></a>) (<a href="https://github.com/vuepress/vuepress-next/commit/bb44710624d2dbb65bd5f3da2eafabdec73ecadf" target="_blank" rel="noopener noreferrer">bb44710<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-17-2021-01-13" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-17-2021-01-13" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.16...v2.0.0-alpha.17" target="_blank" rel="noopener noreferrer">2.0.0-alpha.17<OutboundLink/></a> (2021-01-13)</h1>
+<h3 id="features-12" tabindex="-1"><a class="header-anchor" href="#features-12" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> allow dropdown subtitle as a link (<a href="https://github.com/vuepress/vuepress-next/commit/5fb6558c926ddbb569f2b1901903cf9be4ad426e" target="_blank" rel="noopener noreferrer">5fb6558<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-16-2021-01-11" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-16-2021-01-11" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.15...v2.0.0-alpha.16" target="_blank" rel="noopener noreferrer">2.0.0-alpha.16<OutboundLink/></a> (2021-01-11)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-15-2021-01-04" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-15-2021-01-04" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.14...v2.0.0-alpha.15" target="_blank" rel="noopener noreferrer">2.0.0-alpha.15<OutboundLink/></a> (2021-01-04)</h1>
+<h3 id="bug-fixes-12" tabindex="-1"><a class="header-anchor" href="#bug-fixes-12" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> click to close dropdown that opened by tab and click (<a href="https://github.com/vuepress/vuepress-next/commit/88d1ae2bf6a92113ece8efa7ed57352b34ad18c4" target="_blank" rel="noopener noreferrer">88d1ae2<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> fix font-size of dropdown group title (<a href="https://github.com/vuepress/vuepress-next/commit/563156cb8458aeb71fadd882b08e03bee8ae5fba" target="_blank" rel="noopener noreferrer">563156c<OutboundLink/></a>)</li>
+</ul>
+<h3 id="reverts" tabindex="-1"><a class="header-anchor" href="#reverts" aria-hidden="true">#</a> Reverts</h3>
+<ul>
+<li>fix(theme-default): remove outline when focused on dropdown button (<a href="https://github.com/vuepress/vuepress-next/commit/66d3feba01bf8a3ce751788a9a025dd69757efb4" target="_blank" rel="noopener noreferrer">66d3feb<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-14-2021-01-03" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-14-2021-01-03" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.13...v2.0.0-alpha.14" target="_blank" rel="noopener noreferrer">2.0.0-alpha.14<OutboundLink/></a> (2021-01-03)</h1>
+<h3 id="bug-fixes-13" tabindex="-1"><a class="header-anchor" href="#bug-fixes-13" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> assign default locale data (<a href="https://github.com/vuepress/vuepress-next/commit/d59f55d355299a8edbdb43986cc7aaff5345ea1f" target="_blank" rel="noopener noreferrer">d59f55d<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> fix overflow style of code block line-numbers (<a href="https://github.com/vuepress/vuepress-next/commit/dd77cf448a28423ee23930b3d76601d8a5a6da18" target="_blank" rel="noopener noreferrer">dd77cf4<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> remove outline when focused on dropdown button (<a href="https://github.com/vuepress/vuepress-next/commit/77842e396f1ebcc9e874af537a6520b818d028c2" target="_blank" rel="noopener noreferrer">77842e3<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> set font-size explicitly for h4 to h6 (<a href="https://github.com/vuepress/vuepress-next/commit/a6459c0eca38fbc19545442581ea6f0e73908b30" target="_blank" rel="noopener noreferrer">a6459c0<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-13-2020-12-23" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-13-2020-12-23" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.12...v2.0.0-alpha.13" target="_blank" rel="noopener noreferrer">2.0.0-alpha.13<OutboundLink/></a> (2020-12-23)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-12-2020-12-19" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-12-2020-12-19" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.11...v2.0.0-alpha.12" target="_blank" rel="noopener noreferrer">2.0.0-alpha.12<OutboundLink/></a> (2020-12-19)</h1>
+<h3 id="bug-fixes-14" tabindex="-1"><a class="header-anchor" href="#bug-fixes-14" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> fix navbar type to allow nested group (<a href="https://github.com/vuepress/vuepress-next/commit/9ef46ae3d41dc56c536d884665d28f71a7883a59" target="_blank" rel="noopener noreferrer">9ef46ae<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-10-2020-12-17" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-10-2020-12-17" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.9...v2.0.0-alpha.10" target="_blank" rel="noopener noreferrer">2.0.0-alpha.10<OutboundLink/></a> (2020-12-17)</h1>
+<h3 id="bug-fixes-15" tabindex="-1"><a class="header-anchor" href="#bug-fixes-15" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> fix content headers styles (<a href="https://github.com/vuepress/vuepress-next/commit/7ead1f60db5135ed7d1a428cb23fecbbc11b223e" target="_blank" rel="noopener noreferrer">7ead1f6<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-9-2020-12-16" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-9-2020-12-16" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.8...v2.0.0-alpha.9" target="_blank" rel="noopener noreferrer">2.0.0-alpha.9<OutboundLink/></a> (2020-12-16)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-8-2020-12-11" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-8-2020-12-11" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.7...v2.0.0-alpha.8" target="_blank" rel="noopener noreferrer">2.0.0-alpha.8<OutboundLink/></a> (2020-12-11)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-7-2020-12-09" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-7-2020-12-09" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.6...v2.0.0-alpha.7" target="_blank" rel="noopener noreferrer">2.0.0-alpha.7<OutboundLink/></a> (2020-12-09)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-6-2020-12-09" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-6-2020-12-09" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.5...v2.0.0-alpha.6" target="_blank" rel="noopener noreferrer">2.0.0-alpha.6<OutboundLink/></a> (2020-12-09)</h1>
+<h3 id="features-13" tabindex="-1"><a class="header-anchor" href="#features-13" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> use debug plugin (<a href="https://github.com/vuepress/vuepress-next/commit/e12b1f3293b5e8faebd93b444b71b6ac11b1029d" target="_blank" rel="noopener noreferrer">e12b1f3<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-5-2020-12-03" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-5-2020-12-03" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.4...v2.0.0-alpha.5" target="_blank" rel="noopener noreferrer">2.0.0-alpha.5<OutboundLink/></a> (2020-12-03)</h1>
+<h3 id="bug-fixes-16" tabindex="-1"><a class="header-anchor" href="#bug-fixes-16" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> fix code related styles (<a href="https://github.com/vuepress/vuepress-next/commit/83d8a6f50537ed1b4c5e5c0f4221841999eeaeab" target="_blank" rel="noopener noreferrer">83d8a6f<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> fix the condition of using router-link as nav-link (<a href="https://github.com/vuepress/vuepress-next/commit/8141f691495fc92ee19bd4d7bfd496c07112ac6a" target="_blank" rel="noopener noreferrer">8141f69<OutboundLink/></a>)</li>
+</ul>
+<h1 id="_2-0-0-alpha-4-2020-12-02" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-4-2020-12-02" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.3...v2.0.0-alpha.4" target="_blank" rel="noopener noreferrer">2.0.0-alpha.4<OutboundLink/></a> (2020-12-02)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-3-2020-12-01" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-3-2020-12-01" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.2...v2.0.0-alpha.3" target="_blank" rel="noopener noreferrer">2.0.0-alpha.3<OutboundLink/></a> (2020-12-01)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-2-2020-12-01" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-2-2020-12-01" aria-hidden="true">#</a> <a href="https://github.com/vuepress/vuepress-next/compare/v2.0.0-alpha.1...v2.0.0-alpha.2" target="_blank" rel="noopener noreferrer">2.0.0-alpha.2<OutboundLink/></a> (2020-12-01)</h1>
+<p><strong>Note:</strong> Version bump only for package @vuepress/theme-default</p>
+<h1 id="_2-0-0-alpha-1-2020-12-01" tabindex="-1"><a class="header-anchor" href="#_2-0-0-alpha-1-2020-12-01" aria-hidden="true">#</a> 2.0.0-alpha.1 (2020-12-01)</h1>
+<h3 id="bug-fixes-17" tabindex="-1"><a class="header-anchor" href="#bug-fixes-17" aria-hidden="true">#</a> Bug Fixes</h3>
+<ul>
+<li><strong>theme-default:</strong> code-group nav padding (<a href="https://github.com/vuepress/vuepress-next/commit/1d46ce0b8117bcf55561f2537ec2982d5ca020e5" target="_blank" rel="noopener noreferrer">1d46ce0<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> code-group style in mobile (<a href="https://github.com/vuepress/vuepress-next/commit/7e31bfd6851e5d631da8c09df1127e81eef0e6b8" target="_blank" rel="noopener noreferrer">7e31bfd<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> do not use frontmatter title and desc as hero messages (<a href="https://github.com/vuepress/vuepress-next/commit/a3dde66fd1474f99578115cc17a7605955c8b4b6" target="_blank" rel="noopener noreferrer">a3dde66<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> do not use injections inside computed (<a href="https://github.com/vuepress/vuepress-next/commit/04c7de5ad312835a8306ec65aead882ea0c5aa6a" target="_blank" rel="noopener noreferrer">04c7de5<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> fallback home title and content to siteLocale (<a href="https://github.com/vuepress/vuepress-next/commit/ce34b4a4c7818d330712f82ac073ba90ce9774fc" target="_blank" rel="noopener noreferrer">ce34b4a<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> fix type imports and usages (<a href="https://github.com/vuepress/vuepress-next/commit/f95329512e5fee95839613f66e5011fedfcb548e" target="_blank" rel="noopener noreferrer">f953295<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> hide contributors if array is empty (<a href="https://github.com/vuepress/vuepress-next/commit/9e880165dd408883013af5f9f42cff78ee0574ed" target="_blank" rel="noopener noreferrer">9e88016<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> remove default home config (<a href="https://github.com/vuepress/vuepress-next/commit/21ebb4cc293db6d38e146a87dfb532380cfa68c0" target="_blank" rel="noopener noreferrer">21ebb4c<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> remove DropdownTransition temporarily (<a href="https://github.com/vuepress/vuepress-next/commit/efd6dede9c6a785eb905015104b0f7b011f76456" target="_blank" rel="noopener noreferrer">efd6ded<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> resolve redirect with hash, query and params (<a href="https://github.com/vuepress/vuepress-next/commit/e7b7a9100282ceeef78a62bde15e31504a36f3dd" target="_blank" rel="noopener noreferrer">e7b7a91<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> typo in template (<a href="https://github.com/vuepress/vuepress-next/commit/9a72112b8500f1d387cb7abb70630518e34815c9" target="_blank" rel="noopener noreferrer">9a72112<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> unregister the built-in OutboundLink component to avoid warning (<a href="https://github.com/vuepress/vuepress-next/commit/9c781cc5478eab28689a3a05024b7dbf3fa23722" target="_blank" rel="noopener noreferrer">9c781cc<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> wrap Content with div (<a href="https://github.com/vuepress/vuepress-next/commit/e5785948d09f2711d797aaf91b0bd9ff6a70f95d" target="_blank" rel="noopener noreferrer">e578594<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> wrong default vertical-align of Badge (<a href="https://github.com/vuepress/vuepress-next/commit/0c5d2efb97fc7b9bc66a8d7707954f3d63746ecb" target="_blank" rel="noopener noreferrer">0c5d2ef<OutboundLink/></a>)</li>
+</ul>
+<h3 id="features-14" tabindex="-1"><a class="header-anchor" href="#features-14" aria-hidden="true">#</a> Features</h3>
+<ul>
+<li><strong>theme-default:</strong> 404 page with locales support (<a href="https://github.com/vuepress/vuepress-next/commit/08f6f9b7b0f248cd527cf1251033d8b4172961bd" target="_blank" rel="noopener noreferrer">08f6f9b<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> add Page component (<a href="https://github.com/vuepress/vuepress-next/commit/d2eb868ac92bcc895266facc70a145a7c7f65b3d" target="_blank" rel="noopener noreferrer">d2eb868<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> allow string type navbar and sidebar item (<a href="https://github.com/vuepress/vuepress-next/commit/82d7fa2e96174f7dce2a5e23c8d5d34889493ac4" target="_blank" rel="noopener noreferrer">82d7fa2<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> default theme skeleton (<a href="https://github.com/vuepress/vuepress-next/commit/fb1d413199835e6b6127d4e725a0ce84daa2737a" target="_blank" rel="noopener noreferrer">fb1d413<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> display json extension in code blocks (<a href="https://github.com/vuepress/vuepress-next/commit/d8795d4b4dc2c5c7a8504e6b694714523bdca0a5" target="_blank" rel="noopener noreferrer">d8795d4<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> migrate Badge component (<a href="https://github.com/vuepress/vuepress-next/commit/b77bb29e5832a56cc6860567b3d7381a1def6ec0" target="_blank" rel="noopener noreferrer">b77bb29<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> migrate CodeGroup component (<a href="https://github.com/vuepress/vuepress-next/commit/107afd898a91f1b819297e1649f4e90c87064fc8" target="_blank" rel="noopener noreferrer">107afd8<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> migrate NavLink component (<a href="https://github.com/vuepress/vuepress-next/commit/8bb1e17d4a52a1b164f2cbd990773010566f25c3" target="_blank" rel="noopener noreferrer">8bb1e17<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> migrate OutboundLink component (<a href="https://github.com/vuepress/vuepress-next/commit/c7ddba4ecb781136a931bf5c4aa5f27acc8837ae" target="_blank" rel="noopener noreferrer">c7ddba4<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> migrate styles (<a href="https://github.com/vuepress/vuepress-next/commit/4bb6e10da8b71849edf45bd11c282777e840b618" target="_blank" rel="noopener noreferrer">4bb6e10<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> navbar and sidebar (<a href="https://github.com/vuepress/vuepress-next/commit/7f22ac032c17be8dafe1226d31da4019c17237d5" target="_blank" rel="noopener noreferrer">7f22ac0<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> optimize sidebar items config (<a href="https://github.com/vuepress/vuepress-next/commit/f70cdf06741bd283722fb51170e407492e9b1a6c" target="_blank" rel="noopener noreferrer">f70cdf0<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> support locale config for custom containers (<a href="https://github.com/vuepress/vuepress-next/commit/404e02dadda526b88dfca0f36df8fbf18d3d5e28" target="_blank" rel="noopener noreferrer">404e02d<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use active-header-links plugin (<a href="https://github.com/vuepress/vuepress-next/commit/f7990a2e752af6989cebb58818e3f6c86951255e" target="_blank" rel="noopener noreferrer">f7990a2<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use container plugin and refactor types (<a href="https://github.com/vuepress/vuepress-next/commit/55e0940a6606fa64742faaf14722ebfaafb39321" target="_blank" rel="noopener noreferrer">55e0940<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use Debug component in Layout (<a href="https://github.com/vuepress/vuepress-next/commit/fe4334f863d4d48e1a37ef96d684a168a9eff996" target="_blank" rel="noopener noreferrer">fe4334f<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use docsearch plugin (<a href="https://github.com/vuepress/vuepress-next/commit/c601312385c42bc5ce85a96ab116395b99f504f3" target="_blank" rel="noopener noreferrer">c601312<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use medium-zoom plugin (<a href="https://github.com/vuepress/vuepress-next/commit/6288f8c596b32352fde4898cf03c0f1c684f1e1f" target="_blank" rel="noopener noreferrer">6288f8c<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use nprogress plugin (<a href="https://github.com/vuepress/vuepress-next/commit/e66275390857b92577bccef90e250a23596127cd" target="_blank" rel="noopener noreferrer">e662753<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use palette-stylus plugin (<a href="https://github.com/vuepress/vuepress-next/commit/ccaee0f87072b0d7dcf3e5589aa946d32e5688ab" target="_blank" rel="noopener noreferrer">ccaee0f<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use plugin-back-to-top (<a href="https://github.com/vuepress/vuepress-next/commit/774f95bd1f544103b4602a7ee7faad56d1719d21" target="_blank" rel="noopener noreferrer">774f95b<OutboundLink/></a>)</li>
+<li><strong>theme-default:</strong> use plugin-git and add themePlugins option (<a href="https://github.com/vuepress/vuepress-next/commit/f44570b8392636622bda7f2d5abd697a8050dc26" target="_blank" rel="noopener noreferrer">f44570b<OutboundLink/></a>)</li>
+</ul>
+</template>

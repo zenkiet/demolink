@@ -1,0 +1,1 @@
+import{j as a,k as e,s as n,m as r}from"./vendor.bd533c15.js";const d={},i={id:"file-handling",tabindex:"-1"},s=n("a",{class:"header-anchor",href:"#file-handling","aria-hidden":"true"},"#",-1),l=r(" File Handling");d.render=function(n,r){return a(),e("h1",i,[s,l])};export{d as default};

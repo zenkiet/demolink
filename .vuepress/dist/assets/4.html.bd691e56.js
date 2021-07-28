@@ -1,0 +1,1 @@
+import{j as a,k as i,s as d,m as n}from"./vendor.bd533c15.js";const s={},o={id:"bai-4-giao-thuc-cua-sliding-windows",tabindex:"-1"},r=d("a",{class:"header-anchor",href:"#bai-4-giao-thuc-cua-sliding-windows","aria-hidden":"true"},"#",-1),e=n(" Bài 4: Giao thức của Sliding Windows");s.render=function(d,n){return a(),i("h1",o,[r,e])};export{s as default};

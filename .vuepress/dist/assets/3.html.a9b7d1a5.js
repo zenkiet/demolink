@@ -1,0 +1,1 @@
+import{j as a,k as r,s as e,m as n}from"./vendor.bd533c15.js";const o={},c={id:"bai-3-lop-con-mac",tabindex:"-1"},s=e("a",{class:"header-anchor",href:"#bai-3-lop-con-mac","aria-hidden":"true"},"#",-1),d=n(" Bài 3: Lớp con MAC");o.render=function(e,n){return a(),r("h1",c,[s,d])};export{o as default};

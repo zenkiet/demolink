@@ -1,0 +1,1 @@
+import{j as a,k as n,s as e,m as o}from"./vendor.bd533c15.js";const r={},s={id:"bai-5-mot-so-cong-nghe-lan",tabindex:"-1"},t=e("a",{class:"header-anchor",href:"#bai-5-mot-so-cong-nghe-lan","aria-hidden":"true"},"#",-1),d=o(" Bài 5: Một số công nghệ LAN");r.render=function(e,o){return a(),n("h1",s,[t,d])};export{r as default};

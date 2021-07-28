@@ -1,0 +1,1 @@
+import{j as e,k as r,s as a,m as d}from"./vendor.bd533c15.js";const i={},t={id:"bai-3-world-wide-web-http",tabindex:"-1"},n=a("a",{class:"header-anchor",href:"#bai-3-world-wide-web-http","aria-hidden":"true"},"#",-1),o=d(" Bài 3: World Wide Web ("),s=a("em",null,"HTTP",-1),b=d(")");i.render=function(a,d){return e(),r("h1",t,[n,o,s,b])};export{i as default};

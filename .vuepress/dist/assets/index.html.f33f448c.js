@@ -1,0 +1,1 @@
+import{j as a,k as i,s as n,m as e}from"./vendor.bd533c15.js";const r={},d={id:"giao-dien-nguoi-may",tabindex:"-1"},o=n("a",{class:"header-anchor",href:"#giao-dien-nguoi-may","aria-hidden":"true"},"#",-1),s=e(" Giao diện người máy");r.render=function(n,e){return a(),i("h1",d,[o,s])};export{r as default};

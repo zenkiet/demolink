@@ -1,0 +1,1 @@
+import{j as r,k as a,s as e,m as n}from"./vendor.bd533c15.js";const o={},s={id:"toan-roi-rac",tabindex:"-1"},t=e("a",{class:"header-anchor",href:"#toan-roi-rac","aria-hidden":"true"},"#",-1),d=n(" Toán rời rạc");o.render=function(e,n){return r(),a("h1",s,[t,d])};export{o as default};

@@ -1,0 +1,1 @@
+import{j as e,k as a,s,m as r}from"./vendor.bd533c15.js";const n={},d={id:"miscellaneus",tabindex:"-1"},i=s("a",{class:"header-anchor",href:"#miscellaneus","aria-hidden":"true"},"#",-1),c=r(" Miscellaneus");n.render=function(s,r){return e(),a("h1",d,[i,c])};export{n as default};

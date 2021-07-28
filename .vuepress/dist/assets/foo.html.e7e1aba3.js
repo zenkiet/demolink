@@ -1,0 +1,1 @@
+import{j as o,k as a,F as e,s as n,m as r}from"./vendor.bd533c15.js";const s={},t=n("h1",{id:"foo-h1",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#foo-h1","aria-hidden":"true"},"#"),r(" foo h1")],-1),d=n("p",null,"foo content",-1);s.render=function(n,r){return o(),a(e,null,[t,d],64)};export{s as default};

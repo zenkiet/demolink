@@ -1,0 +1,1 @@
+import{j as a,k as e,s as i,m as t}from"./vendor.bd533c15.js";const h={},o={id:"bai-2-phan-loai-mtt-theo-pham-vi",tabindex:"-1"},r=i("a",{class:"header-anchor",href:"#bai-2-phan-loai-mtt-theo-pham-vi","aria-hidden":"true"},"#",-1),n=t(" Bài 2:Phân loại MTT theo phạm vi");h.render=function(i,t){return a(),e("h1",o,[r,n])};export{h as default};

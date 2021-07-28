@@ -1,0 +1,1 @@
+import{j as e,k as a,s as r,m as n}from"./vendor.bd533c15.js";const i={},t={id:"bai-3-đac-điem-kenh-truyen",tabindex:"-1"},s=r("a",{class:"header-anchor",href:"#bai-3-đac-điem-kenh-truyen","aria-hidden":"true"},"#",-1),d=n(" Bài 3: Đặc điểm kênh truyền");i.render=function(r,n){return e(),a("h1",t,[s,d])};export{i as default};

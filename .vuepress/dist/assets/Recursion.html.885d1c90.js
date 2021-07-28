@@ -1,0 +1,1 @@
+import{j as r,k as e,s as a,m as s}from"./vendor.bd533c15.js";const n={},o={id:"recursion",tabindex:"-1"},d=a("a",{class:"header-anchor",href:"#recursion","aria-hidden":"true"},"#",-1),i=s(" Recursion");n.render=function(a,s){return r(),e("h1",o,[d,i])};export{n as default};

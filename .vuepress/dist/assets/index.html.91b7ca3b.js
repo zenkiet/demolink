@@ -1,0 +1,1 @@
+import{j as n,k as a,s as t,m as r}from"./vendor.bd533c15.js";const e={},h={id:"mang-may-tinh-va-truyen-thong",tabindex:"-1"},s=t("a",{class:"header-anchor",href:"#mang-may-tinh-va-truyen-thong","aria-hidden":"true"},"#",-1),d=r(" Mạng máy tính và truyền thông");e.render=function(t,r){return n(),a("h1",h,[s,d])};export{e as default};

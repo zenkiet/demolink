@@ -1,0 +1,1 @@
+import{j as e,k as n,s as a,m as r}from"./vendor.bd533c15.js";const s={},d={id:"cong-nghe-web",tabindex:"-1"},o=a("a",{class:"header-anchor",href:"#cong-nghe-web","aria-hidden":"true"},"#",-1),h=r(" Công nghệ Web");s.render=function(a,r){return e(),n("h1",d,[o,h])};export{s as default};

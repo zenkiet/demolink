@@ -1,0 +1,11 @@
+<template><h1 id="bai-2-mang-đien-thoai" tabindex="-1"><a class="header-anchor" href="#bai-2-mang-đien-thoai" aria-hidden="true">#</a> <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/26-18-30-56-icons8-telephone.png" width="50"> Bài 2: Mạng điện thoại:</h1>
+<h2 id="i-gioi-thieu" tabindex="-1"><a class="header-anchor" href="#i-gioi-thieu" aria-hidden="true">#</a> I.Giới thiệu</h2>
+<p>Truyền thông tin dưới dạng <strong>âm thanh</strong> bằng cách sử dụng <strong>hệ thống truyền tín hiệu tuần tự</strong>.</p>
+<hr>
+<h2 id="ii-hoat-đong" tabindex="-1"><a class="header-anchor" href="#ii-hoat-đong" aria-hidden="true">#</a> II.Hoạt động</h2>
+<p>Dựa theo chế độ <strong>chuyển mạch định hướng nối kết</strong> (<em><code>Circuit switching</code></em>) ==&gt; tức là thiết lập đường nối kết giữa hai bên giao tiếp trước khi thông tin được truyền đi (<em><code>connection oriented</code></em>)</p>
+<blockquote>
+<p><strong>Mô hình như sau</strong> :</p>
+<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-13-16-04-output-onlinepngtools.png" title="" alt="outputonlinepngtoolspng" width="576">
+</blockquote>
+</template>

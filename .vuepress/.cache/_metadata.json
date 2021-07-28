@@ -1,0 +1,26 @@
+{
+  "hash": "047de29e",
+  "browserHash": "4067b191",
+  "optimized": {
+    "vue": {
+      "file": "/Users/zenfection/Desktop/WebCTU/.vuepress/.cache/vue.js",
+      "src": "/Users/zenfection/Desktop/WebCTU/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "/Users/zenfection/Desktop/WebCTU/.vuepress/.cache/vue-router.js",
+      "src": "/Users/zenfection/Desktop/WebCTU/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "file": "/Users/zenfection/Desktop/WebCTU/.vuepress/.cache/@vuepress_shared.js",
+      "src": "/Users/zenfection/Desktop/WebCTU/packages/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "/Users/zenfection/Desktop/WebCTU/.vuepress/.cache/nprogress.js",
+      "src": "/Users/zenfection/Desktop/WebCTU/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    }
+  }
+}

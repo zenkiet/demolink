@@ -1,0 +1,1 @@
+import{j as e,k as n,s as a,m as h}from"./vendor.bd533c15.js";const r={},s={id:"nguyen-ly-he-đieu-hanh",tabindex:"-1"},u=a("a",{class:"header-anchor",href:"#nguyen-ly-he-đieu-hanh","aria-hidden":"true"},"#",-1),d=h(" Nguyên lý hệ điều hành");r.render=function(a,h){return e(),n("h1",s,[u,d])};export{r as default};

@@ -1,0 +1,1 @@
+import{j as a,k as r,s as t,m as e}from"./vendor.bd533c15.js";const s={},d={id:"data-structures",tabindex:"-1"},u=t("a",{class:"header-anchor",href:"#data-structures","aria-hidden":"true"},"#",-1),n=e(" Data Structures");s.render=function(t,e){return a(),r("h1",d,[u,n])};export{s as default};

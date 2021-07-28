@@ -1,0 +1,1 @@
+import{j as a,k as n,s as c,m as r}from"./vendor.bd533c15.js";const e={},h={id:"bai-4-chuan-hoa-mang-cuc-bo",tabindex:"-1"},o=c("a",{class:"header-anchor",href:"#bai-4-chuan-hoa-mang-cuc-bo","aria-hidden":"true"},"#",-1),s=r(" Bài 4: Chuẩn hóa mạng cục bộ");e.render=function(c,r){return a(),n("h1",h,[o,s])};export{e as default};

@@ -1,0 +1,1 @@
+import{j as a,k as n,s as e,m as r}from"./vendor.bd533c15.js";const i={},s={id:"bai-5-lien-mang",tabindex:"-1"},d=e("a",{class:"header-anchor",href:"#bai-5-lien-mang","aria-hidden":"true"},"#",-1),t=r(" Bài 5: Liên mạng");i.render=function(e,r){return a(),n("h1",s,[d,t])};export{i as default};

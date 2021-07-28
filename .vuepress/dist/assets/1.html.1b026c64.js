@@ -1,0 +1,1 @@
+import{j as e,k as r,s as a,m as i}from"./vendor.bd533c15.js";const t={},o={id:"bai-1-gioi-thieu-network-layer",tabindex:"-1"},n=a("a",{class:"header-anchor",href:"#bai-1-gioi-thieu-network-layer","aria-hidden":"true"},"#",-1),s=i(" Bài 1: Giới thiệu NetWork Layer");t.render=function(a,i){return e(),r("h1",o,[n,s])};export{t as default};

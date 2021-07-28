@@ -1,0 +1,1 @@
+import{j as r,k as a,s as n,m as e}from"./vendor.bd533c15.js";const t={},i={id:"kien-truc-may-tinh",tabindex:"-1"},s=n("a",{class:"header-anchor",href:"#kien-truc-may-tinh","aria-hidden":"true"},"#",-1),d=e(" Kiến trúc máy tính");t.render=function(n,e){return r(),a("h1",i,[s,d])};export{t as default};

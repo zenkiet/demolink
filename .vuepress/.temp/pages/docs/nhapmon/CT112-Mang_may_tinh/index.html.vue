@@ -1,0 +1,173 @@
+<template><h1 id="mang-may-tinh" tabindex="-1"><a class="header-anchor" href="#mang-may-tinh" aria-hidden="true">#</a> <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/16-21-13-31-15-22-08-48-Network.png" width="50"> Mạng máy tính <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/16-14-56-59-08-15-27-06-cat_ready.gif" title="" alt="08-15-27-06-cat_ready.gif" width="50"></h1>
+<table>
+<thead>
+<tr>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-14-36-27-logo cat.png" title="" alt="logo cat.png" width="40"> Tác giả</th>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-14-38-42-logo-ctu.png" title="" alt="logo-ctu.png" width="40"> Bổ trợ tài liệu</th>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-13-59-20-icons8-new_year's_eve.png" title="" alt="icons8-new_year's_eve.png" width="40"> Năm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://facebook.com/Zenfection" target="_blank" rel="noopener noreferrer">Zenfection<OutboundLink/></a></td>
+<td><a href="http://www.cit.ctu.edu.vn/" target="_blank" rel="noopener noreferrer">Can Tho University<OutboundLink/></a></td>
+<td>2021</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_1-kien-thuc-can-co" tabindex="-1"><a class="header-anchor" href="#_1-kien-thuc-can-co" aria-hidden="true">#</a> <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/16-15-21-11-tenor.gif" alt="tenor.gif" width="65"> 1. Kiến thức cần có</h2>
+<table>
+<thead>
+<tr>
+<th>Môn học</th>
+<th>Mã HP</th>
+<th>Ngôn ngữ lập trình</th>
+<th>Kế hoạch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/15-22-09-47-Programmable Circuit Board.png" title="" alt="Programmable Circuit Boardpng" width="40"> <a href="https://github.com/Zenfection/CTU/tree/main/HocPhan/CT173-Kien_truc_may_tinh" target="_blank" rel="noopener noreferrer">Kiến trúc máy tính<OutboundLink/></a></td>
+<td><a href="https://elcit.ctu.edu.vn/course/search.php?search=CT173" target="_blank" rel="noopener noreferrer">CT173<OutboundLink/></a></td>
+<td><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/16-19-52-01-assembly.png" title="" alt="assembly.png" width="32"><a href="https://www.cs.virginia.edu/~evans/cs216/guides/x86.html" target="_blank" rel="noopener noreferrer">Assembly<OutboundLink/></a></td>
+<td><a href="http://www.cit.ctu.edu.vn/decuong/CT173.pdf" target="_blank" rel="noopener noreferrer">Click<OutboundLink/></a></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/15-13-16-57-os.png" title="" alt="" width="40"> <a href="https://github.com/Zenfection/CTU/tree/main/HocPhan/CT178-Nguyen_ly_he_dieu_hanh" target="_blank" rel="noopener noreferrer">Nguyên lý hệ điều hành<OutboundLink/></a></td>
+<td><a href="https://elcit.ctu.edu.vn/course/search.php?search=CT178" target="_blank" rel="noopener noreferrer">CT178<OutboundLink/></a></td>
+<td><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/16-19-44-38-icons8-command_line.png" alt="icons8-command_line.png"> Shell</td>
+<td><a href="http://www.cit.ctu.edu.vn/decuong/CT178.pdf" target="_blank" rel="noopener noreferrer">Click<OutboundLink/></a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="_2-tai-lieu-hoc-tap" tabindex="-1"><a class="header-anchor" href="#_2-tai-lieu-hoc-tap" aria-hidden="true">#</a> <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/16-15-23-13-tenor.gif" title="" alt="tenor.gif" width="50"> 2. Tài liệu học tập</h2>
+<table>
+<thead>
+<tr>
+<th>Tài liệu</th>
+<th>Khoá học</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-14-38-42-logo-ctu.png" title="" alt="logo-ctu.png" width="35"> <a href="https://github.com/Zenfection/CTU/raw/main/HocPhan/CT112-Mang_may_tinh/Tailieu/CTU.zip" target="_blank" rel="noopener noreferrer">Slide CTU<OutboundLink/></a></td>
+<td><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/16-15-10-40-icons8-youtube_play_button.png" alt="icons8-youtube_play_button.png"> <a href="https://www.youtube.com/watch?v=S1SvECZtTCA&amp;list=PLAWl4sDZTi7swN1NS7E-4AZIRacmGQDES" target="_blank" rel="noopener noreferrer">Mạng máy tính<OutboundLink/></a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="_3-qua-trinh-hoc-tap" tabindex="-1"><a class="header-anchor" href="#_3-qua-trinh-hoc-tap" aria-hidden="true">#</a> <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/16-15-24-10-tenor.gif" title="" alt="tenor.gif" width="40"> 3. Quá trình học tập</h2>
+<h3 id="ly-thuyet-nguon-ctu" tabindex="-1"><a class="header-anchor" href="#ly-thuyet-nguon-ctu" aria-hidden="true">#</a> <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-13-02-16-learn.gif" title="" alt="learn.gif" width="40"> Lý thuyết ==&gt; nguồn <a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Giaotrinh_MMT.pdf" target="_blank" rel="noopener noreferrer">CTU<OutboundLink/></a></h3>
+<table>
+<thead>
+<tr>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-23-icons8-1_cute.png" alt="icons8-1_cute.png">Tổng quan MMT</th>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-30-icons8-2_cute.png" alt="icons8-2_cute.png">Các thành phần của MMT</th>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-37-icons8-3_cute.png" alt="icons8-3_cute.png">Tầng vật lý</th>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-44-icons8-4_cute.png" alt="icons8-4_cute.png">Tầng liên kết dữ liệu</th>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-48-icons8-5_cute.png" alt="icons8-5_cute.png">Mạng nội bộ &amp; lớp con điều khiển</th>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-52-icons8-6_cute.png" alt="icons8-6_cute.png">Tầng mạng</th>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-59-icons8-7_cute.png" alt="icons8-7_cute.png">Tầng vận chuyển</th>
+<th><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-24-04-icons8-8_cute.png" alt="icons8-8_cute.png">Các ứng dụng mạng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter1/1.md" target="_blank" rel="noopener noreferrer">1.Mạng điện báo<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter2/1.md" target="_blank" rel="noopener noreferrer">1.Phân loại MMT theo kỹ thuật<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter3/1.md" target="_blank" rel="noopener noreferrer">1.Vấn đề số hóa thông tin<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter4/1.md" target="_blank" rel="noopener noreferrer">1.Chức năng của tầng liên kết dữ liệu<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter5/1.md" target="_blank" rel="noopener noreferrer">1.Tổng quan về LAN<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter6/1.md" target="_blank" rel="noopener noreferrer">1.Giới thiệu Network Layer<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter7/1.md" target="_blank" rel="noopener noreferrer">1.Dịch vụ của tầng vận chuyển<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter8/1.md" target="_blank" rel="noopener noreferrer">1.Dịch vụ DNS<OutboundLink/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter1/2.md" target="_blank" rel="noopener noreferrer">2.Mạng điện thoại<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter2/2.md" target="_blank" rel="noopener noreferrer">2.Phân loại MTT theo phạm vi<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter3/2.md" target="_blank" rel="noopener noreferrer">2.Các loại kênh truyền<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter4/2.md" target="_blank" rel="noopener noreferrer">2.Vấn đề xử lý lỗi<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter5/2.md" target="_blank" rel="noopener noreferrer">2.Các hình tháng mạng<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter6/2.md" target="_blank" rel="noopener noreferrer">2.Các vấn đề về thiết kế tầng mạng<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter7/2.md" target="_blank" rel="noopener noreferrer">2.Các yếu tố cấu thành giao thức vận chuyển<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter8/2.md" target="_blank" rel="noopener noreferrer">2.Electronic Mail (<em>SMTP,MINE,POP3...</em>)<OutboundLink/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter1/3.md" target="_blank" rel="noopener noreferrer">3.Mạng hướng đầu cuối<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter2/3.md" target="_blank" rel="noopener noreferrer">3.Mạng không dây và liên mạng<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter3/3.md" target="_blank" rel="noopener noreferrer">3.Đặc điểm kênh truyền<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter4/3.md" target="_blank" rel="noopener noreferrer">3.Một số giao thức Error Control<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter5/3.md" target="_blank" rel="noopener noreferrer">3.Lớp con MAC<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter6/3.md" target="_blank" rel="noopener noreferrer">3.Giải thuật chọn đường<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter7/3.md" target="_blank" rel="noopener noreferrer">3.Tầng vận chuyển trong mạng Internet<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter8/3.md" target="_blank" rel="noopener noreferrer">3.World Wide Web (<em>HTTP</em>)<OutboundLink/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter1/4.md" target="_blank" rel="noopener noreferrer">4.Mạng máy tính<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter2/4.md" target="_blank" rel="noopener noreferrer">4.Các phần mềm 1.và dịch vụ mạng<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter3/4.md" target="_blank" rel="noopener noreferrer">4.Mã hóa đường truyền<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter4/4.md" target="_blank" rel="noopener noreferrer">4.Giao thức của Sliding Windows<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter5/4.md" target="_blank" rel="noopener noreferrer">4.Chuẩn hóa mạng cục bộ<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter6/4.md" target="_blank" rel="noopener noreferrer">4.Các vấn đề chống tắc nghẽn<OutboundLink/></a></td>
+<td></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter8/5.md" target="_blank" rel="noopener noreferrer">4.Truyền tập tin (<em>FTP</em>)<OutboundLink/></a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter2/5.md" target="_blank" rel="noopener noreferrer">5.Mô hình mạng OSI<OutboundLink/></a></td>
+<td></td>
+<td></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter5/5.md" target="_blank" rel="noopener noreferrer">5.Một số công nghệ LAN<OutboundLink/></a></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter6/5.md" target="_blank" rel="noopener noreferrer">5.Liên mạng<OutboundLink/></a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="https://github.com/Zenfection/CTU/blob/main/HocPhan/CT112-Mang_may_tinh/Tailieu/Chapter6/6.md" target="_blank" rel="noopener noreferrer">6.Bộ giao thức liên mạng<OutboundLink/></a></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="thuc-hanh-nguon-ctu" tabindex="-1"><a class="header-anchor" href="#thuc-hanh-nguon-ctu" aria-hidden="true">#</a> <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-13-04-55-cat_computer.gif" title="" alt="cat_computer.gif" width="50"> Thực hành ==&gt; Nguồn <a href="https://github.com/Zenfection/CTU/tree/main/HocPhan/CT112-Mang_may_tinh/Thuchanh" target="_blank" rel="noopener noreferrer">CTU<OutboundLink/></a></h3>
+<table>
+<thead>
+<tr>
+<th>Buổi <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-23-icons8-1_cute.png" alt="icons8-1_cute.png"></th>
+<th>Buổi <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-30-icons8-2_cute.png" alt="icons8-2_cute.png"></th>
+<th>Buổi <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-37-icons8-3_cute.png" alt="icons8-3_cute.png"></th>
+<th>Buổi <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-44-icons8-4_cute.png" alt="icons8-4_cute.png"></th>
+<th>Buổi <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/25-12-23-48-icons8-5_cute.png" alt="icons8-5_cute.png"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.Giới thiệu công cụ mạng phổ biến Linux</td>
+<td>1.Phần mềm Wireshark</td>
+<td>1.Ethernet II và Wifi 802.11 frame</td>
+<td>1.Giới thiệu RIP, OSPF, Zebra</td>
+<td>1. Giao thức HTTP</td>
+</tr>
+<tr>
+<td>2.Phần mềm Netkit</td>
+<td></td>
+<td>2.Khảo sát ARP</td>
+<td>2. Bài tập và thực hành xây dựng mô hình</td>
+<td>2.Dịch vụ DNS</td>
+</tr>
+<tr>
+<td>3.Bài tập Netkit</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3.Dịch vụ Mail</td>
+</tr>
+</tbody>
+</table>
+</template>

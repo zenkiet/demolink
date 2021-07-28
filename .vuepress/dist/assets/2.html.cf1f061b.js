@@ -1,0 +1,1 @@
+import{j as a,k as e,s as n,m as t}from"./vendor.bd533c15.js";const r={},i={id:"bai-2-cac-van-đe-ve-thiet-ke-tang-mang",tabindex:"-1"},c=n("a",{class:"header-anchor",href:"#bai-2-cac-van-đe-ve-thiet-ke-tang-mang","aria-hidden":"true"},"#",-1),s=t(" Bài 2: Các vấn đề về thiết kế tầng mạng");r.render=function(n,t){return a(),e("h1",i,[c,s])};export{r as default};

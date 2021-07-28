@@ -1,0 +1,1 @@
+import{j as n,k as a,s as e,m as r}from"./vendor.bd533c15.js";const s={},t={id:"nien-luan-co-so-cntt",tabindex:"-1"},o=e("a",{class:"header-anchor",href:"#nien-luan-co-so-cntt","aria-hidden":"true"},"#",-1),c=r(" Niên luận cơ sở CNTT");s.render=function(e,r){return n(),a("h1",t,[o,c])};export{s as default};

@@ -1,0 +1,1 @@
+import{j as a,k as e,s as r,m as s}from"./vendor.bd533c15.js";const d={},n={id:"game",tabindex:"-1"},t=r("a",{class:"header-anchor",href:"#game","aria-hidden":"true"},"#",-1),o=s(" Game");d.render=function(r,s){return a(),e("h1",n,[t,o])};export{d as default};

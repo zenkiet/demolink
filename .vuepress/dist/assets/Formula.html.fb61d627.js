@@ -1,0 +1,1 @@
+import{j as a,k as r,s as e,m as o}from"./vendor.bd533c15.js";const s={},d={id:"formula",tabindex:"-1"},n=e("a",{class:"header-anchor",href:"#formula","aria-hidden":"true"},"#",-1),t=o(" Formula");s.render=function(e,o){return a(),r("h1",d,[n,t])};export{s as default};

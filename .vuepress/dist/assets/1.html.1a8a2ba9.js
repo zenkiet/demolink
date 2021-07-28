@@ -1,0 +1,1 @@
+import{j as a,k as n,s as e,m as t}from"./vendor.bd533c15.js";const o={},r={id:"bai-1-van-đe-so-hoa-thong-tin",tabindex:"-1"},s=e("a",{class:"header-anchor",href:"#bai-1-van-đe-so-hoa-thong-tin","aria-hidden":"true"},"#",-1),i=t(" Bài 1: Vấn đề số hóa thông tin");o.render=function(e,t){return a(),n("h1",r,[s,i])};export{o as default};

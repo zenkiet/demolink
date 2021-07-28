@@ -1,0 +1,1 @@
+import{j as a,k as n,s as c,m as e}from"./vendor.bd533c15.js";const r={},d={id:"bai-1-dich-vu-cua-tang-van-chuyen",tabindex:"-1"},h=c("a",{class:"header-anchor",href:"#bai-1-dich-vu-cua-tang-van-chuyen","aria-hidden":"true"},"#",-1),i=e(" Bài 1: Dịch vụ của tầng vận chuyển");r.render=function(c,e){return a(),n("h1",d,[h,i])};export{r as default};

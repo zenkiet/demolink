@@ -1,0 +1,1 @@
+import{j as a,k as n,s as e,m as c}from"./vendor.bd533c15.js";const r={},d={id:"bai-4-cac-phan-mem-va-dich-vu-mang",tabindex:"-1"},m=e("a",{class:"header-anchor",href:"#bai-4-cac-phan-mem-va-dich-vu-mang","aria-hidden":"true"},"#",-1),h=c(" Bài 4: Các phần mềm và dịch vụ mạng");r.render=function(e,c){return a(),n("h1",d,[m,h])};export{r as default};

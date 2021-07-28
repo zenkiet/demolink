@@ -1,0 +1,1 @@
+import{j as n,k as a,s as h,m as o}from"./vendor.bd533c15.js";const r={},e={id:"ngon-ngu-mo-hinh-hoa",tabindex:"-1"},s=h("a",{class:"header-anchor",href:"#ngon-ngu-mo-hinh-hoa","aria-hidden":"true"},"#",-1),d=o(" Ngôn ngữ mô hình hóa");r.render=function(h,o){return n(),a("h1",e,[s,d])};export{r as default};

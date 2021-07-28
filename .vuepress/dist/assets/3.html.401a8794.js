@@ -1,0 +1,1 @@
+import{j as n,k as a,s as e,m as r}from"./vendor.bd533c15.js";const t={},i={id:"bai-3-tang-van-chuyen-trong-mang-internet",tabindex:"-1"},o=e("a",{class:"header-anchor",href:"#bai-3-tang-van-chuyen-trong-mang-internet","aria-hidden":"true"},"#",-1),s=r(" Bài 3: Tầng vận chuyển trong mạng Internet");t.render=function(e,r){return n(),a("h1",i,[o,s])};export{t as default};

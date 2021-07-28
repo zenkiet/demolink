@@ -1,0 +1,1 @@
+import{j as a,k as t,s as e,m as h}from"./vendor.bd533c15.js";const o={},r={id:"bai-1-phan-loai-mtt-theo-ky-thuat",tabindex:"-1"},i=e("a",{class:"header-anchor",href:"#bai-1-phan-loai-mtt-theo-ky-thuat","aria-hidden":"true"},"#",-1),n=h(" Bài 1: Phân loại MTT theo kỹ thuật");o.render=function(e,h){return a(),t("h1",r,[i,n])};export{o as default};

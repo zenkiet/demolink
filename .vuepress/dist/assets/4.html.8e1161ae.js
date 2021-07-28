@@ -1,0 +1,1 @@
+import{j as a,k as n,s as c,m as e}from"./vendor.bd533c15.js";const r={},h={id:"bai-4-cac-van-đe-chong-tac-nghen",tabindex:"-1"},t=c("a",{class:"header-anchor",href:"#bai-4-cac-van-đe-chong-tac-nghen","aria-hidden":"true"},"#",-1),s=e(" Bài 4: Các vấn đề chống tắc nghẽn");r.render=function(c,e){return a(),n("h1",h,[t,s])};export{r as default};

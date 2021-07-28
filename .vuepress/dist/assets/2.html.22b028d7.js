@@ -1,0 +1,1 @@
+import{j as a,k as e,s as r,m as i}from"./vendor.bd533c15.js";const n={},s={id:"bai-2-van-đe-xu-ly-loi",tabindex:"-1"},d=r("a",{class:"header-anchor",href:"#bai-2-van-đe-xu-ly-loi","aria-hidden":"true"},"#",-1),o=i(" Bài 2: Vấn đề xử lý lỗi");n.render=function(r,i){return a(),e("h1",s,[d,o])};export{n as default};

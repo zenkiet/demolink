@@ -1,0 +1,1 @@
+import{j as a,k as r,s as n,m as e}from"./vendor.bd533c15.js";const o={},t={id:"bai-4-ma-hoa-đuong-truyen",tabindex:"-1"},s=n("a",{class:"header-anchor",href:"#bai-4-ma-hoa-đuong-truyen","aria-hidden":"true"},"#",-1),d=e(" Bài 4: Mã hóa đường truyền");o.render=function(n,e){return a(),r("h1",t,[s,d])};export{o as default};

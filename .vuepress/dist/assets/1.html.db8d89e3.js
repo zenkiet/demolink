@@ -1,0 +1,1 @@
+import{j as a,k as n,s as e,m as i}from"./vendor.bd533c15.js";const t={},c={id:"bai-1-chuc-nang-cua-tang-lien-ket-du-lieu",tabindex:"-1"},r=e("a",{class:"header-anchor",href:"#bai-1-chuc-nang-cua-tang-lien-ket-du-lieu","aria-hidden":"true"},"#",-1),u=i(" Bài 1: Chức năng của tầng liên kết dữ liệu");t.render=function(e,i){return a(),n("h1",c,[r,u])};export{t as default};

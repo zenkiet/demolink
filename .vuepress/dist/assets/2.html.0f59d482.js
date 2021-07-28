@@ -1,0 +1,1 @@
+import{j as a,k as n,s as h,m as i}from"./vendor.bd533c15.js";const r={},e={id:"bai-2-cac-hinh-thai-mang",tabindex:"-1"},t=h("a",{class:"header-anchor",href:"#bai-2-cac-hinh-thai-mang","aria-hidden":"true"},"#",-1),c=i(" Bài 2: Các hình thái mạng");r.render=function(h,i){return a(),n("h1",e,[t,c])};export{r as default};

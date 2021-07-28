@@ -1,0 +1,1 @@
+import{j as a,k as n,s as e,m as r}from"./vendor.bd533c15.js";const s={},t={id:"bai-1-tong-quan-ve-lan",tabindex:"-1"},d=e("a",{class:"header-anchor",href:"#bai-1-tong-quan-ve-lan","aria-hidden":"true"},"#",-1),i=r(" Bài 1: Tổng quan về LAN");s.render=function(e,r){return a(),n("h1",t,[d,i])};export{s as default};

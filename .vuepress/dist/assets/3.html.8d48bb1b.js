@@ -1,0 +1,1 @@
+import{j as a,k as n,s as e,m as r}from"./vendor.bd533c15.js";const d={},i={id:"bai-3-mang-khong-day-va-lien-mang",tabindex:"-1"},s=e("a",{class:"header-anchor",href:"#bai-3-mang-khong-day-va-lien-mang","aria-hidden":"true"},"#",-1),g=r(" Bài 3: Mạng không dây và liên mạng");d.render=function(e,r){return a(),n("h1",i,[s,g])};export{d as default};

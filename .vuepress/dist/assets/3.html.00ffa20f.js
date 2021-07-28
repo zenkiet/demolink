@@ -1,0 +1,1 @@
+import{j as a,k as i,s as n,m as t}from"./vendor.bd533c15.js";const r={},e={id:"bai-3-giai-thuat-chon-đuong",tabindex:"-1"},h=n("a",{class:"header-anchor",href:"#bai-3-giai-thuat-chon-đuong","aria-hidden":"true"},"#",-1),o=t(" Bài 3: Giải thuật chọn đường");r.render=function(n,t){return a(),i("h1",e,[h,o])};export{r as default};

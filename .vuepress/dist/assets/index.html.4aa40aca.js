@@ -1,0 +1,1 @@
+import{j as n,k as a,s as r,m as t}from"./vendor.bd533c15.js";const e={},o={id:"nhap-mon-tri-tue-nhan-tao",tabindex:"-1"},h=r("a",{class:"header-anchor",href:"#nhap-mon-tri-tue-nhan-tao","aria-hidden":"true"},"#",-1),s=t(" Nhập môn Trí tuệ nhân tạo");e.render=function(r,t){return n(),a("h1",o,[h,s])};export{e as default};

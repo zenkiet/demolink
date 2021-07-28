@@ -1,0 +1,1 @@
+import{j as h,k as t,s as e,m as a}from"./vendor.bd533c15.js";const n={},r={id:"phan-tich-thiet-ke-he-thong",tabindex:"-1"},i=e("a",{class:"header-anchor",href:"#phan-tich-thiet-ke-he-thong","aria-hidden":"true"},"#",-1),s=a(" Phân tích thiết kế hệ thống");n.render=function(e,a){return h(),t("h1",r,[i,s])};export{n as default};

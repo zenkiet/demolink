@@ -1,0 +1,1 @@
+import{j as n,k as e,s as r,m as a}from"./vendor.bd533c15.js";const t={},d={id:"phat-trien-ung-dung-web",tabindex:"-1"},s=r("a",{class:"header-anchor",href:"#phat-trien-ung-dung-web","aria-hidden":"true"},"#",-1),i=a(" Phát triển ứng dụng Web");t.render=function(r,a){return n(),e("h1",d,[s,i])};export{t as default};

@@ -1,0 +1,1 @@
+import{j as a,k as n,s as e,m as r}from"./vendor.bd533c15.js";const d={},s={id:"quan-ly-du-an-phan-mem",tabindex:"-1"},m=e("a",{class:"header-anchor",href:"#quan-ly-du-an-phan-mem","aria-hidden":"true"},"#",-1),u=r(" Quản lý dự án phần mềm");d.render=function(e,r){return a(),n("h1",s,[m,u])};export{d as default};

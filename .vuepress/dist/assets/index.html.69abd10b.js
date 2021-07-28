@@ -1,0 +1,1 @@
+import{j as a,k as n,s as r,m as e}from"./vendor.bd533c15.js";const h={},t={id:"nhap-mon-lap-trinh-web",tabindex:"-1"},s=r("a",{class:"header-anchor",href:"#nhap-mon-lap-trinh-web","aria-hidden":"true"},"#",-1),d=e(" Nhập môn lập trình Web");h.render=function(r,e){return a(),n("h1",t,[s,d])};export{h as default};
